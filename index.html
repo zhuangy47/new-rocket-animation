@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <title>Rocket Tracker</title>
+
+        <!-- Babylon.js -->
+        
+        
+        <style>
+            html, body {
+                overflow: hidden;
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+
+            #renderCanvas {
+                width: 100%;
+                height: 100%;
+                touch-action: none;
+            }
+        </style>
+    </head>
+<body>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <!-- <meta name="google-signin-client_id" content="567262647144-et5i0cke7sqp73f3posdrtpdeojkestt.apps.googleusercontent.com">
+    <div class="g-signin2" data-onsuccess="onSignIn"></div> -->
+    <input type ="file" id="uploadfile" accept=".csv">
+    <button id="uploadconfirm">Upload File</button>
+
+    <!-- <script type="module" src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script> -->
+
+    <!-- <script src="CSVParse.js"></script> -->
+    <!-- <script src="parse.js"></script> -->
+    <canvas id="renderCanvas"></canvas>
+
+    <script type="module" src="src/index.js"></script>
+</body>
+</html>

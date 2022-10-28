@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rocket-flight-software",
+  "private_key_id": "3de2a9607a1d9f07578d6de21088cbb315d29189",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5iWCju0AOaI+O\nqwZIg17RJJ6MKLN62/FwhOyalbIptHTtQaDK6QSH5t1deBgR4g75RfBc+kufmvkB\nYMKHW0K1ng4QDZazRSehOfC0Qg2EZNbGY5i2pn5n+hIn0S+RidA1rWlVa8T0yuXv\n5uOJKZ8nzK65hZcfDjU0seCXyiIrUNSIMYtyIimSyms/TaapegnBPDCX0iU3nsOq\ncObeVWbjNxIxBy1FDOMi8dLum4ZYTDiHtNqEPShTIfsQB18H9xAKx8Mhl+c9p9uS\nhdDfjhBTCbcv7ePXiKMghzlD59V5YSMkx2T+ILdhf6RoUx/nToPM97lwv2zZXMU7\nMLDeIUZJAgMBAAECggEAK1Wd38AdfwAG/7CMYCVm4Pxnl57uBLUYWEqDpLtwCHOg\nl8WrU5lHOKLAc1NYc9zT2H7wXBcN0LJ2lE7QQKMdGqRW7oLt/uMZFXwd70w6MgEH\ndQDQK2EJxylOUkR2ksyYd+EP6Caqsu4s9HJ+FIxHIxmYebZtDJDZ9nvRVEKe5nSt\nl8Qk1M+hjmAmMBWP7dSDbwX0dIff9iaMugS4K2mw/lWt01gYek0A8kiBVc3ud+Gw\neSkMJvTMRmF2Dv6nt5m6qvIGz8xQzQQOQ3F2eO/cPNmAVhNAKJ2enGdOu2+WtS5c\nyreaYuj5utMic6Mu+pN5DcmHU7sX6K+Fhh6oHOkp3QKBgQDo194H51qfvYv433E1\n+yLrnpuHn74ZF/AdG/kYMeuAx4F4VjJj+7kOyVdT6AyoiQmmCOE7hG4CV4ioJMFY\nSK+iH+iSHZqIGorLQmd4Wr5xxo4yl0OX0A6dplJrVShPkDxZwCZzRhSgxRIr5e2P\ncs60/Ar0pqVkoiCPbg3XYUw2DwKBgQDL/RhzOEl/VHifF26YIJO9OarSCTccMgl7\nlQQ41m14mLrEIjZPH/5UkiyscZ+ArLi5WUFHD/uDpy2+0SvspyNmjCZstTL2lmns\nnWPFIw0tx/m3i76DSe0hqFVdUKFqtDoCp/AMfG98wAk8qBl91AEtVoJqn7+gS1Bg\nUheF9ORWJwKBgAb+3VPddpKQDlGG3Q7jIbR0inWzrfFxD6zAN2arsUioNdKYvGDW\nokO4duA1e5PgsiKD58hy/R8i5B8xI4H0hRpY3RLuwsLOEVd0AknSaCBg98q7UrOP\n87B228kPwOtLCRUlOcKC24HNCfO5r758k4tKe0XIb/WrDVFh3BaZfMGvAoGASpFh\nn7TiwSYK1fVF21yFRTXQaOkveSIdb0yg93oDGIOUOmBbQ/9pBFdO91atvObmu/KR\ntz1zbsPtKATkrqTGfxUacsCmOZfwbqt2LjlK9wJUGbF+2hVrFtOnKO5xo0Tws8na\nKWZPhuXYOpEkiGe4am9mSz3MWfdOEXfQ24oS8h8CgYBQXRW57kz4WwGQiVqC4DaY\nRIJs0xdrVVM0SPaQ5mq/52ZTV1QRR+N7YA5GbNUDNQQKWjLjZGqXHJer8VhFWeOC\nA/PJHaz9yivjhBu/pjwI61qkSBqx8PrCnJitwFEKWwK8ZePg4Vmo8T9tVCv0XIb7\ncPZ0W9KXQz4jnSrwWSeXZQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yz-rocket@rocket-flight-software.iam.gserviceaccount.com",
+  "client_id": "116819563577588846598",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yz-rocket%40rocket-flight-software.iam.gserviceaccount.com"
+}
